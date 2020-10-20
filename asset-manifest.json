@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deputados/static/css/main.0a385c8c.chunk.css",
+    "main.js": "/deputados/static/js/main.361b42ad.chunk.js",
+    "main.js.map": "/deputados/static/js/main.361b42ad.chunk.js.map",
+    "runtime-main.js": "/deputados/static/js/runtime-main.c64e1c6a.js",
+    "runtime-main.js.map": "/deputados/static/js/runtime-main.c64e1c6a.js.map",
+    "static/js/2.8d7786d5.chunk.js": "/deputados/static/js/2.8d7786d5.chunk.js",
+    "static/js/2.8d7786d5.chunk.js.map": "/deputados/static/js/2.8d7786d5.chunk.js.map",
+    "index.html": "/deputados/index.html",
+    "precache-manifest.08209553a534ec0defbd6d920ce324e1.js": "/deputados/precache-manifest.08209553a534ec0defbd6d920ce324e1.js",
+    "service-worker.js": "/deputados/service-worker.js",
+    "static/css/main.0a385c8c.chunk.css.map": "/deputados/static/css/main.0a385c8c.chunk.css.map",
+    "static/js/2.8d7786d5.chunk.js.LICENSE.txt": "/deputados/static/js/2.8d7786d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c64e1c6a.js",
+    "static/js/2.8d7786d5.chunk.js",
+    "static/css/main.0a385c8c.chunk.css",
+    "static/js/main.361b42ad.chunk.js"
+  ]
+}
