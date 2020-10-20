@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "282382db898523588eecddb4ab647b26",
+    "revision": "fbc3b70a2711c4b816b04146b0eb0acd",
     "url": "/deputados/index.html"
   },
   {
-    "revision": "6215130aca279b4316b1",
-    "url": "/deputados/static/css/main.0a385c8c.chunk.css"
+    "revision": "b1a3d58aedf54705013d",
+    "url": "/deputados/static/css/main.b170ca23.chunk.css"
   },
   {
     "revision": "19feb3586691c488f573",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deputados/static/js/2.8d7786d5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6215130aca279b4316b1",
+    "revision": "b1a3d58aedf54705013d",
     "url": "/deputados/static/js/main.361b42ad.chunk.js"
   },
   {
